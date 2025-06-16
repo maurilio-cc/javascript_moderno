@@ -1,0 +1,1 @@
+console.log("\nAula 01 de javascript moderno.\nO foco dessa primeira aula é aprender a executar um código javascript usando o node.\n");
